@@ -115,7 +115,6 @@ To seed the database, we need to run the following commands in the docker contai
 I assume we are running appserver in the docker container.
 
 ```sh
-docker exec -it appserver bash
 npm run db:seed
 npm run db:migrate
 ```
