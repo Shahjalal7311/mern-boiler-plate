@@ -4,8 +4,8 @@ Here is the details of Foyzul Karim vai:
 
 You tube playlist:  [YouTube playlist](https://www.youtube.com/playlist?list=PLEYpvDF6qy8aUl1KnB1oaZbwLE2oPcZmz). These  videos are only in **Bangla**
 
-Main Repo: https://github.com/foyzulkarim/mernboilerplate-antd.git 
-Youtube chanel: https://www.youtube.com/@Foyzul
+Main Repo: https://github.com/foyzulkarim/mernboilerplate-antd.git   
+Youtube chanel: https://www.youtube.com/@Foyzul  
 
 
 ### _A complete (Work in progress now) MERN boilerplate repository with RBAC feature, following all production best practices._
